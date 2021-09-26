@@ -1,2 +1,2 @@
-# visuallabs
+# Hertzsoft
 java test code
